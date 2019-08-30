@@ -40318,3 +40318,17 @@ p.item-heading.core-sitename {
 ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
     color: #fff;
 }
+
+
+div#core-tabs-bar {
+background: #fff;
+}
+
+.ng-star-inserted {
+    color: #004C9C;
+}
+
+ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
+    color: #004C9C!important;
+    border-bottom-color: #004C9C!important;
+}
