@@ -40332,3 +40332,12 @@ ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
     color: #004C9C!important;
     border-bottom-color: #004C9C!important;
 }
+
+
+ion-col.col-with-arrow.col {
+    background: #fff;
+}
+
+ion-app.app-root .core-tabs-bar {
+    background: #fff;
+}
