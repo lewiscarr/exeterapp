@@ -40237,7 +40237,7 @@ ion-app.app-root core-course-format .core-format-progress-list .core-course-thum
 }
 
 .select-text.ng-star-inserted {
-    color: #004C9C;
+    color: #004C9C!important;
 }
 
 
@@ -40258,7 +40258,7 @@ ion-item-divider.item.item-divider.item-md.item-divider-md {
 
 
 ion-app.app-root .core-button-select .select-icon .select-icon-inner, ion-app.app-root ion-select.core-button-select .select-icon .select-icon-inner {
-    color: #004C9C;
+    color: #004C9C!important;
 }
 
 
@@ -40340,4 +40340,9 @@ ion-col.col-with-arrow.col {
 
 ion-app.app-root .core-tabs-bar {
     background: #fff;
+}
+
+
+.core-course-thumb.core-course-color-img {
+    display: none;
 }
