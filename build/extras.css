@@ -40344,5 +40344,47 @@ ion-app.app-root .core-tabs-bar {
 
 
 .core-course-thumb.core-course-color-img {
-    display: none;
+    display: none!important;
+}
+
+
+
+body.scheme-auto ion-app.app-root .ion-page .item-divider, body.scheme-auto ion-app.app-root .ion-page .item-divider .item-inner {
+    color: #fff!important;
+    background-color: #004C9C!important;
+}
+
+
+ion-app.app-root core-course-format .item-divider core-format-text {
+   
+    color: #fff;
+}
+
+ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calendar-day-number span {
+    background-color: #004C9C;
+    
+}
+
+
+button.button.button-md.button-default.button-default-md.ng-star-inserted {
+   
+    background: #004C9C;
+}
+
+button.button.button-md.button-default.button-default-md.button-md-light.ng-star-inserted {
+    color: #004C9C;
+}
+
+button.button.button-md.button-default.button-default-md.ng-star-inserted {
+    color: #004C9C;
+}
+
+.button-md:hover:not(.disable-hover) {
+    background-color: #004C9C;
+    color: #fff!important;
+}
+
+
+ion-app.app-root.md .button-md-light {
+    color: #004C9C;
 }
