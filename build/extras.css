@@ -17,9 +17,9 @@ a {
 /* Active tab */
 
 ion-app.app-root .core-tabs-bar .tab-slide[aria-selected=true] {
-    color: #004C9C;
-    border-bottom-color: #004C9C;
-    background: #fff;
+    color: #004C9C!important;
+    border-bottom-color: #004C9C!important;
+    background: #fff!important;
 }
 
 /* In-active tab */
@@ -205,3 +205,22 @@ ion-app.app-root page-core-user-profile .core-user-communication-handlers .core-
     display: none;
 }
 
+
+span.core-button-select-text {
+    color: #004C9C;
+}
+
+
+ion-icon.icon.fa.fa-folder {
+    color: #004C9C;
+}
+
+
+ion-app.app-root core-course-format .core-format-progress-list .item progress .progress-bar-fallback {
+background-color: #f1f1f1;
+}
+
+
+ion-col.col.ng-star-inserted p {
+    color: #004C9C;
+}
