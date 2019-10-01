@@ -200,3 +200,8 @@ ion-app.app-root page-core-user-profile .core-user-communication-handlers .core-
     color: #004C9C;
 }
 
+
+.core-course-thumb.core-course-color-img {
+    display: none;
+}
+
