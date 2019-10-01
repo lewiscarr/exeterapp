@@ -224,3 +224,21 @@ background-color: #f1f1f1;
 ion-col.col.ng-star-inserted p {
     color: #004C9C;
 }
+
+ion-app.app-root button.core-button-select .core-button-select-text {
+   color: #004C9C!important;
+}
+
+
+ion-icon.icon.icon-md.ion-md-arrow-dropdown {
+   color: #004C9C!important;
+}
+
+ion-app.app-root core-block .item-divider .icon {
+    color: #fff!important;
+}
+
+
+.core-course-thumb.core-course-color-img {
+    display: none!important;
+}
