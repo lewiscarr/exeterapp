@@ -276,3 +276,33 @@ ion-app.app-root button.core-button-select .core-button-select-text {
     white-space: nowrap;
     color: #004C9C;
 }
+
+
+a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md {
+    background: #004C9C;
+}
+
+
+.button-outline-md {
+   
+    border-color: #004C9C;
+    color: #004C9C;
+
+}
+
+.core-button-select {
+    color: #004C9C!important;
+}
+
+ion-app.app-root.md .button-md-light {
+    color: #004C9C!important;
+}
+
+h2.inline.ng-star-inserted {
+    color: #fff;
+}
+
+
+a.disable-hover.item-button.button.button-md.button-default.button-default-md.button-block.button-block-md {
+    background: #004C9C!important
+}
