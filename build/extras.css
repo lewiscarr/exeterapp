@@ -298,11 +298,21 @@ ion-app.app-root.md .button-md-light {
     color: #004C9C!important;
 }
 
-h2.inline.ng-star-inserted {
-    color: #fff;
-}
+
 
 
 a.disable-hover.item-button.button.button-md.button-default.button-default-md.button-block.button-block-md {
     background: #004C9C!important
+}
+
+.fab-md.activated {
+background: #16243D;
+}
+
+button.disable-hover.button.button-md.button-default.button-default-md.ng-star-inserted {
+    background: #004C9C!important
+}
+
+a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md.button-md-light.ng-star-inserted {
+ background: #fff;
 }
