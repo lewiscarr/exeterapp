@@ -242,3 +242,37 @@ ion-app.app-root core-block .item-divider .icon {
 .core-course-thumb.core-course-color-img {
     display: none!important;
 }
+
+
+a.button.button-md.button-default.button-default-md.button-block.button-block-md.item-button.ng-star-inserted {
+    background: #004C9C;
+}
+
+
+ion-app.app-root core-courses-course-progress ion-card.card .core-course-thumb.core-course-color-img {
+display: none
+}
+
+ion-app.app-root core-courses-course-progress ion-card.card .core-course-thumb img {
+display: none
+}
+
+button.disable-hover.core-user-profile-handler.addon-messages-removecontact-handler.button.button-md.button-outline.button-outline-md.button-block.button-block-md.item-button.ng-star-inserted {
+    border-color: blue;
+    color: #004C9C;
+}
+
+
+button.disable-hover.core-user-profile-handler.addon-messages-blockcontact-handler.button.button-md.button-outline.button-outline-md.button-block.button-block-md.item-button.ng-star-inserted {
+    border-color: #004C9C;
+    color: #004C9C;
+}
+
+
+ion-app.app-root button.core-button-select .core-button-select-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 2em;
+    white-space: nowrap;
+    color: #004C9C;
+}
