@@ -2,8 +2,8 @@
     "app_id": "com.tituslearning.elemobile",
     "appname": "ELE Mobile",
     "desktopappname": "ELE Mobile",
-    "versioncode": 3710,
-    "versionname": "3.7.5",
+    "versioncode": 3720,
+    "versionname": "3.7.6",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -88,7 +88,7 @@
     "statusbarlighttextios": true,
     "statusbarbgandroid": "#004C9C",
     "statusbarlighttextandroid": true,
-    "statusbarbgremotetheme": "#000000",
+    "statusbarbgremotetheme": "#004C9C",
     "statusbarlighttextremotetheme": true,
     "enableanalytics": false
 }
