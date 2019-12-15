@@ -5,6 +5,11 @@ a {
 	border-color: #004C9C;
 	background: #004C9C;
 }
+
+.toolbar-background {
+	border-color: #004C9C;
+	background: #004C9C;
+}
 /* Behind the tabs */
 .core-tabs-bar {
 	color: #004C9C;
@@ -33,6 +38,10 @@ body.scheme-auto ion-app.app-root .ion-page .item h2 {
 body.scheme-auto ion-app.app-root .ion-page .content-md {
 	background: #fff;
 }
+
+body.scheme-auto ion-app.app-root .ion-page .content {
+	background: #fff;
+}
 /* Main app toolbar bottom or side */
 .tabs-md .tabbar {
 	background: #004C9C;
@@ -41,8 +50,16 @@ body.scheme-auto ion-app.app-root .ion-page .content-md {
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon {
 	color: #fff;
 }
+
+.tabs .tab-button[aria-selected=true] .tab-button-icon {
+	color: #fff;
+}
 /* Main app toolbar bottom or side icon not-selected */
 .tabs-md .tab-button-icon {
+	color: #fff;
+}
+
+.tabs .tab-button-icon {
 	color: #fff;
 }
 /* Main app toolbar bottom or side icon selected fade */
@@ -59,6 +76,11 @@ body.scheme-auto ion-app.app-root core-format-text[maxHeight].core-text-formatte
 	color: #3a3a3a;
 	background-color: #fff;
 }
+
+.content {
+	color: #3a3a3a;
+	background-color: #fff;
+}
 /* Main app background 2 */
 on-app.app-root core-empty-box .core-empty-box .core-empty-box-content {
 	background: #fff;
@@ -71,7 +93,16 @@ ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calend
 	background-color: #004C9C;
 	/* In-course dividers */
 }
+
+.fab {
+	background-color: #004C9C;
+	/* In-course dividers */
+}
 button.alert-button.alert-button-md.alert-button-default.alert-button-default-md.ng-star-inserted {
+	color: #004c9c;
+}
+
+button.alert-button.alert-button.alert-button-default.alert-button-default.ng-star-inserted {
 	color: #004c9c;
 }
 .select-text.ng-star-inserted {
@@ -83,7 +114,14 @@ button.alert-button.alert-button-md.alert-button-default.alert-button-default-md
 .radio-md .radio-inner {
 	background-color: #000;
 }
+.radio .radio-inner {
+	background-color: #000;
+}
 .item-radio-checked.item-md ion-label {
+	color: #000;
+}
+
+.item-radio-checked.item ion-label {
 	color: #000;
 }
 [dir=ltr] ion-app.app-root .core-primary-selected-item {
@@ -92,14 +130,28 @@ button.alert-button.alert-button-md.alert-button-default.alert-button-default-md
 ion-icon.icon.icon-md.ion-ios-arrow-back {
 	color: #fff;
 }
+ion-icon.icon.icon.ion-ios-arrow-back {
+	color: #fff;
+}
 ion-icon.icon.icon-md.ion-ios-arrow-forward {
+	color: #fff;
+}
+ion-icon.icon.icon.ion-ios-arrow-forward {
 	color: #fff;
 }
 .item-divider-md-light, .item-md-light {
 	color: #fff;
 	background-color: #16243D;
 }
+.item-divider-light, .item-light {
+	color: #fff;
+	background-color: #16243D;
+}
 span.button.button-md.button-clear.button-clear-md.button-clear-md-gray.item-button.ng-star-inserted {
+	background: transparent;
+}
+
+span.button.button.button-clear.button-clear.button-clear-gray.item-button.ng-star-inserted {
 	background: transparent;
 }
 [dir=ltr] ion-app.app-root core-split-view .split-pane-visible .split-pane-side .core-split-item-selected {
@@ -108,10 +160,16 @@ span.button.button-md.button-clear.button-clear-md.button-clear-md-gray.item-but
 .toolbar-md-light .toolbar-background-md {
 	background: #fff;
 }
+.toolbar-light .toolbar-background {
+	background: #fff;
+}
 ion-app.app-root .core-button-select .select-icon .select-icon-inner, ion-app.app-root ion-select.core-button-select .select-icon .select-icon-inner {
 	color: #16243D;
 }
 .alert-md .alert-button {
+	color: #004C9C;
+}
+.alert .alert-button {
 	color: #004C9C;
 }
 p.item-heading.core-siteurl.ng-star-inserted {
@@ -121,7 +179,16 @@ ion-item-divider.item.item-divider.item-md.item-divider-md {
 	background: #16243D;
 	color: #fff;
 }
+ion-item-divider.item.item-divider.item.item-divider {
+	background: #16243D;
+	color: #fff;
+}
 .item-md.item-input.ng-invalid.ng-touched:not(.input-has-focus):not(.item-input-has-focus) .item-inner {
+	border-bottom-color: #004C9C;
+	-webkit-box-shadow: inset 0 -1px 0 0 #004C9C;
+	box-shadow: inset 0 -1px 0 0 #004C9C;
+}
+.item.item-input.ng-invalid.ng-touched:not(.input-has-focus):not(.item-input-has-focus) .item-inner {
 	border-bottom-color: #004C9C;
 	-webkit-box-shadow: inset 0 -1px 0 0 #004C9C;
 	box-shadow: inset 0 -1px 0 0 #004C9C;
@@ -131,16 +198,30 @@ ion-item-divider.item.item-divider.item-md.item-divider-md {
 	-webkit-box-shadow: inset 0 -1px 0 0 #004C9C;
 	box-shadow: inset 0 -1px 0 0 #004C9C;
 }
+.item.item-input.input-has-focus .item-inner, .item.item-input.item-input-has-focus .item-inner {
+	border-bottom-color: #004C9C;
+	-webkit-box-shadow: inset 0 -1px 0 0 #004C9C;
+	box-shadow: inset 0 -1px 0 0 #004C9C;
+}
 .button-clear-md {
 	color: #004C9C;
 }
+.button-clear {
+	color: #004C9C;
+}
 button.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md {
+	background: #004C9C;
+}
+button.disable-hover.button.button.button-default.button-default.button-block.button-block {
 	background: #004C9C;
 }
 ion-app.app-root page-core-user-profile .core-user-communication-handlers .core-user-profile-handler .icon {
 	background-color: #004C9C;
 }
 .action-sheet-md .action-sheet-title {
+	color: #004C9C;
+}
+.action-sheet .action-sheet-title {
 	color: #004C9C;
 }
 .core-course-thumb.core-course-color-img {
@@ -164,6 +245,9 @@ ion-app.app-root button.core-button-select .core-button-select-text {
 ion-icon.icon.icon-md.ion-md-arrow-dropdown {
 	color: #004C9C!important;
 }
+ion-icon.icon.icon.ion-arrow-dropdown {
+	color: #004C9C!important;
+}
 ion-app.app-root core-block .item-divider .icon {
 	color: #fff!important;
 }
@@ -171,6 +255,9 @@ ion-app.app-root core-block .item-divider .icon {
 	display: none!important;
 }
 a.button.button-md.button-default.button-default-md.button-block.button-block-md.item-button.ng-star-inserted {
+	background: #004C9C;
+}
+a.button.button.button-default.button-default.button-block.button-block.item-button.ng-star-inserted {
 	background: #004C9C;
 }
 ion-app.app-root core-courses-course-progress ion-card.card .core-course-thumb.core-course-color-img {
@@ -183,7 +270,15 @@ button.disable-hover.core-user-profile-handler.addon-messages-removecontact-hand
 	border-color: blue;
 	color: #004C9C;
 }
+button.disable-hover.core-user-profile-handler.addon-messages-removecontact-handler.button.button.button-outline.button-outline.button-block.button-block.item-button.ng-star-inserted {
+	border-color: blue;
+	color: #004C9C;
+}
 button.disable-hover.core-user-profile-handler.addon-messages-blockcontact-handler.button.button-md.button-outline.button-outline-md.button-block.button-block-md.item-button.ng-star-inserted {
+	border-color: #004C9C;
+	color: #004C9C;
+}
+button.disable-hover.core-user-profile-handler.addon-messages-blockcontact-handler.button.button.button-outline.button-outline.button-block.button-block.item-button.ng-star-inserted {
 	border-color: #004C9C;
 	color: #004C9C;
 }
@@ -197,7 +292,14 @@ ion-app.app-root button.core-button-select .core-button-select-text {
 a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md {
 	background: #004C9C;
 }
+a.disable-hover.button.button.button-default.button-default.button-block.button-block {
+	background: #004C9C;
+}
 .button-outline-md {
+	border-color: #004C9C;
+	color: #004C9C;
+}
+.button-outline {
 	border-color: #004C9C;
 	color: #004C9C;
 }
@@ -207,16 +309,31 @@ a.disable-hover.button.button-md.button-default.button-default-md.button-block.b
 ion-app.app-root.md .button-md-light {
 	color: #004C9C!important;
 }
+ion-app.app-root .button-light {
+	color: #004C9C!important;
+}
 a.disable-hover.item-button.button.button-md.button-default.button-default-md.button-block.button-block-md {
+	background: #004C9C!important
+}
+a.disable-hover.item-button.button.button.button-default.button-default.button-block.button-block {
 	background: #004C9C!important
 }
 .fab-md.activated {
 	background: #16243D;
 }
+.fab.activated {
+	background: #16243D;
+}
 button.disable-hover.button.button-md.button-default.button-default-md.ng-star-inserted {
 	background: #004C9C!important
 }
+button.disable-hover.button.button.button-default.button-default.ng-star-inserted {
+	background: #004C9C!important
+}
 a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md.button-md-light.ng-star-inserted {
+	background: #fff;
+}
+a.disable-hover.button.button.button-default.button-default.button-block.button-block.button-light.ng-star-inserted {
 	background: #fff;
 }
 .core-course-thumb.core-course-color-img {
