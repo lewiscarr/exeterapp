@@ -339,3 +339,16 @@ a.disable-hover.button.button.button-default.button-default.button-block.button-
 .core-course-thumb.core-course-color-img {
 	display: none;
 }
+
+
+[dir=ltr] ion-app.app-root core-ion-tabs[tabsplacement=side] .tabbar {
+   background: #004C9C!important;
+}
+
+.tabbar.show-tabbar {
+    background: #004C9C!important;
+}
+
+ion-app.app-root.ios .button-ios-light {
+    color: #fff;
+}
