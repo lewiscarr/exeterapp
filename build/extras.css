@@ -595,4 +595,5 @@ toggle-md.toggle-checked .toggle-icon {
 
 .segment-ios-primary .segment-button.segment-activated {
 background: #004C9C!important;	
+	color:#fff!important;
 }
