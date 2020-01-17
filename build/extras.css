@@ -485,3 +485,12 @@ color:#fff;
 form.ng-untouched.ng-pristine.ng-valid.ng-star-inserted .item- p {
 color:#fff;	
 }
+
+
+ion-item-divider.item.item-divider.item.item-divider h2 {
+    color: #fff;
+}
+
+ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
+    color: #fff;
+}
