@@ -423,3 +423,7 @@ ion-app.app-root.md .button-md-light {
 button.button.button-md.button-clear.button-clear-md.button-clear-md-dark.item-button.ng-star-inserted {
     background: none;
 }
+
+span.disable-hover.button.button-ios.button-clear.button-clear-ios.button-clear-ios-gray.item-button.ng-star-inserted {
+    background: none;
+}
