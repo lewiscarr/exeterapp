@@ -491,5 +491,5 @@ ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
 
 
 .spinner-ios-ios line, .spinner-ios-ios-small line {
-    stroke: #004C9C;
+    stroke: #004C9C!important;
 }
