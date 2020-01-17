@@ -493,3 +493,8 @@ ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
 .spinner-ios-ios line, .spinner-ios-ios-small line {
     stroke: #004C9C!important;
 }
+
+
+a.disable-hover.bar-button.bar-button-ios.bar-button-default.bar-button-default-ios.ng-star-inserted {
+    background: #004C9C;
+}
