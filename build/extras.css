@@ -563,20 +563,18 @@ toggle-md.toggle-checked .toggle-icon {
 }
 
 .segment-md-primary .segment-button {
-    color: #004C9C;
+    color: #004C9C!important;;
 }
 
-.segment-md-primary .segment-button {
-    color: #004C9C;
-}
+
 
 
 .segment-ios-primary .segment-button.segment-activated {
     color: #fff;
-    background-color: #004C9C;
+    background-color: #004C9C!important;;
 }
 
 .segment-ios-primary .segment-button {
-    border-color: #004C9C;
-    color: #004C9C;
+    border-color: #004C9C!important;
+    color: #004C9C!important;;
 }
