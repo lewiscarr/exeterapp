@@ -524,3 +524,28 @@ ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .but
 ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .button-block:active {
     background: #004C9C;
 }
+
+
+.toggle-ios.toggle-checked .toggle-icon {
+    background-color: #004C9C;
+}
+
+toggle-md.toggle-checked .toggle-icon {
+    background-color: #004C9C;
+}
+
+.toggle-md.toggle-checked .toggle-inner {
+    background-color: #004C9C;
+}
+
+
+.segment-md-primary .segment-button.activated, .segment-md-primary .segment-button.segment-activated {
+    border-color: #004C9C;
+    color: #004C9C;
+    
+}
+
+
+ion-app.app-root ion-select .select-icon .select-icon-inner {
+    color: #004C9C;
+}
