@@ -488,3 +488,16 @@ ion-item-divider.item.item-divider.item.item-divider h2 {
 ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
     color: #fff;
 }
+
+
+ion-spinner {
+* {
+stroke: #004C9C;
+}
+
+&.spinner-circles circle,
+&.spinner-bubbles circle,
+&.spinner-dots circle {
+  fill: #004C9C;
+}
+}
