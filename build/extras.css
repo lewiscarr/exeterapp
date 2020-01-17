@@ -355,17 +355,17 @@ ion-app.app-root.ios .button-ios-light {
 
 
 .button-ios {
-    
+    color: #fff;
     background-color: #004C9C;
 }
 
 .button-ios:active {
-    
+    color: #fff;
     background: #004C9C;
 }
 
 .button-ios:focus {
-    
+    color: #fff;
     background: #004C9C;
 }
 
