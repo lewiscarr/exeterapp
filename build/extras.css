@@ -498,5 +498,8 @@ ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
 
 
 .toolbar-ios-light .toolbar-background-ios {
-    background: #16243D;
+    background: #16243D!important;
+}
+.toolbar-md-light .toolbar-background-md {
+    background: #16243D!important;
 }
