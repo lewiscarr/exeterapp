@@ -571,7 +571,7 @@ toggle-md.toggle-checked .toggle-icon {
 
 .segment-ios-primary .segment-button.segment-activated {
     color: #fff;
-    background-color: #004C9C!important;;
+    background-color: #004C9C!important;
 }
 
 .segment-ios-primary .segment-button {
@@ -588,4 +588,13 @@ toggle-md.toggle-checked .toggle-icon {
 .segment-ios-primary .segment-button.segment-activated {
     color: #fff;
     background-color: #004C9C!important;
+}
+
+
+.segment-ios-primary .segment-button {
+background: #004C9C!important;	
+}
+
+.segment-ios-primary .segment-button.segment-activated {
+background: #004C9C!important;	
 }
