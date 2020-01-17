@@ -578,3 +578,14 @@ toggle-md.toggle-checked .toggle-icon {
     border-color: #004C9C!important;
     color: #004C9C!important;;
 }
+
+.segment-ios-primary .segment-button {
+    border-color: #004C9C!important;
+    color: #004C9C!important;
+}
+
+
+.segment-ios-primary .segment-button.segment-activated {
+    color: #fff;
+    background-color: #004C9C!important;
+}
