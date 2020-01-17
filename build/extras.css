@@ -437,3 +437,15 @@ span.disable-hover.button.button-ios.button-clear.button-clear-ios.button-clear-
     --ion-color-shade: var(--ion-color-primary-shade, #004C9C)!important;
     --ion-color-tint: var(--ion-color-primary-tint, #004C9C)!important;
 }
+
+
+ion-item.core-course-link.item.item-block.item-ios.core-course-more-than-title .button-ios {
+    background: none;
+    color: #004C9C;
+}
+
+
+ion-item-divider.item.item-divider.item.item-divider .button-ios {
+    background: none;
+    color: #004C9C;
+}
