@@ -603,3 +603,6 @@ background: #004C9C!important;
     display: none;
 }
 
+a.item.item-block.item-ios .button-ios {
+   color: #004C9C!important;
+}
