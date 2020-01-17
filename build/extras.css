@@ -503,3 +503,7 @@ ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
 .toolbar-md-light .toolbar-background-md {
     background: #16243D!important;
 }
+
+ion-item-divider.item.item-divider.item-md.item-divider-md p {
+    color: #fff;
+}
