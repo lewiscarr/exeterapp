@@ -391,3 +391,9 @@ ion-app.app-root.md .button-md-light {
 .spinner-md-crescent circle {
     stroke: #004C9C;
 }
+
+.refresher-pulling-icon, .refresher-refreshing-icon {
+    
+    color: #004C9C;
+   
+}
