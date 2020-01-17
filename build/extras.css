@@ -512,3 +512,15 @@ ion-item-divider.item.item-divider.item-md.item-divider-md p {
 ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .button-block {
     background: #004C9C;
 }
+
+ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .button-block:hover {
+    background: #004C9C;
+}
+
+ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .button-block:focus {
+    background: #004C9C;
+}
+
+ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .button-block:active {
+    background: #004C9C;
+}
