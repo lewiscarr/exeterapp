@@ -549,3 +549,11 @@ toggle-md.toggle-checked .toggle-icon {
 ion-app.app-root ion-select .select-icon .select-icon-inner {
     color: #004C9C;
 }
+
+.toggle-md.toggle-checked .toggle-icon {
+    background-color: #004C9C!important;
+}
+
+.segment-md-primary .segment-button {
+    color: #004C9C;
+}
