@@ -426,3 +426,14 @@ span.disable-hover.button.button-ios.button-clear.button-clear-ios.button-clear-
 .button-clear-md:hover:not(.disable-hover) {
     background-color: #004C9C;
 }
+
+
+
+.ion-color-primary {
+    --ion-color-base: var(--ion-color-primary, #004C9C)!important;
+    --ion-color-base-rgb: var(--ion-color-primary, #004C9C)!important;
+    --ion-color-contrast: var(--ion-color-primary-contrast, #004C9C)!important;
+    --ion-color-contrast-rgb: var(--ion-color-primary-contrast, #004C9C)!important;
+    --ion-color-shade: var(--ion-color-primary-shade, #004C9C)!important;
+    --ion-color-tint: var(--ion-color-primary-tint, #004C9C)!important;
+}
