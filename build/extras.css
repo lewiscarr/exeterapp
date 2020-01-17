@@ -418,3 +418,8 @@ ion-app.app-root.md .button-md-light {
    
     background-color: #004C9C;
 }
+
+
+button.button.button-md.button-clear.button-clear-md.button-clear-md-dark.item-button.ng-star-inserted {
+    background: none;
+}
