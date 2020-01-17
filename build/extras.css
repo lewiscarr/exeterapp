@@ -350,5 +350,44 @@ a.disable-hover.button.button.button-default.button-default.button-block.button-
 }
 
 ion-app.app-root.ios .button-ios-light {
-    color: #fff;
+    color: #fff!important;
+}
+
+
+.button-ios {
+    
+    background-color: #f98012;
+}
+
+.button-ios:active {
+    
+    background: #004C9C;
+}
+
+.button-ios:focus {
+    
+    background: #004C9C;
+}
+
+
+.tabs-ios .tab-button[aria-selected=true] {
+ background: #004C9C;
+}
+
+
+ion-app.app-root.md .button-md-light {
+    color: #fff!important;
+}
+
+
+
+  
+  
+  .refresher-refreshing .spinner-crescent circle, .refresher-refreshing .spinner-ios line, .refresher-refreshing .spinner-ios-small line {
+    stroke: #004C9C;
+}
+
+
+.spinner-md-crescent circle {
+    stroke: #004C9C;
 }
