@@ -474,4 +474,7 @@ ion-item-divider.item.item-divider.item.item-divider .button-ios {
     border-left: 5px solid #004C9C;
 }
 
+orm.ng-untouched.ng-pristine.ng-valid.ng-star-inserted h2 {
+    color: #fff;
+}
 
