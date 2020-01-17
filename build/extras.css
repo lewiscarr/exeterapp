@@ -427,3 +427,9 @@ button.button.button-md.button-clear.button-clear-md.button-clear-md-dark.item-b
 span.disable-hover.button.button-ios.button-clear.button-clear-ios.button-clear-ios-gray.item-button.ng-star-inserted {
     background: none;
 }
+
+
+
+.button-clear-md:hover:not(.disable-hover) {
+    background-color: #004C9C;
+}
