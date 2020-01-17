@@ -379,6 +379,11 @@ ion-app.app-root.md .button-md-light {
     color: #fff!important;
 }
 
+.button-md-light {
+    
+    background-color: #386da4;
+}
+
 
 
   
@@ -396,4 +401,9 @@ ion-app.app-root.md .button-md-light {
     
     color: #004C9C;
    
+}
+
+
+.button-md {
+ background: #004C9C;	
 }
