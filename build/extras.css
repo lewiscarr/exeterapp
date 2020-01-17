@@ -490,14 +490,6 @@ ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
 }
 
 
-ion-spinner {
-* {
-stroke: #004C9C;
-}
-
-&.spinner-circles circle,
-&.spinner-bubbles circle,
-&.spinner-dots circle {
-  fill: #004C9C;
-}
+.spinner-ios-ios line, .spinner-ios-ios-small line {
+    stroke: #004C9C;
 }
