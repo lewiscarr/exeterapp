@@ -342,6 +342,12 @@ a.disable-hover.button.button.button-default.button-default.button-block.button-
 }
 
 
+
+p.item-heading.core-siteurl.ng-star-inserted {
+    display: none;
+}
+
+
 [dir=ltr] ion-app.app-root core-ion-tabs[tabsplacement=side] .tabbar {
    background: #004C9C!important;
 }
@@ -600,9 +606,11 @@ background: #004C9C!important;
 
 
 .core-login-forgotten-password.ng-star-inserted {
-    display: none;
+    display: none!important;
 }
 
 a.item.item-block.item-ios .button-ios {
    color: #004C9C!important;
 }
+
+
