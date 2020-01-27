@@ -503,12 +503,7 @@ ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
 
 
 
-.toolbar-ios-light .toolbar-background-ios {
-    background: #16243D!important;
-}
-.toolbar-md-light .toolbar-background-md {
-    background: #16243D!important;
-}
+
 
 ion-item-divider.item.item-divider.item-md.item-divider-md p {
     color: #fff;
@@ -620,4 +615,14 @@ button#core-course-section-button span.core-button-select-text {
 
  ion-icon.icon.icon-ios.ion-md-arrow-dropdown {
     color: #004C9C!important
+}
+
+
+.toolbar-ios-light .toolbar-background-ios {
+background: inherit;	
+}
+
+
+.toolbar-md-light .toolbar-background-md {
+background: inherit;	
 }
