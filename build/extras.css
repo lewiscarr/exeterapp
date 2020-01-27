@@ -613,4 +613,11 @@ a.item.item-block.item-ios .button-ios {
    color: #004C9C!important;
 }
 
+button#core-course-section-button span.core-button-select-text {
+    color: #004C9C!important
+}
 
+
+ ion-icon.icon.icon-ios.ion-md-arrow-dropdown {
+    color: #004C9C!important
+}
