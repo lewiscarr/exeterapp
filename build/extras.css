@@ -643,5 +643,7 @@ ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .but
     color: #fff!important;
 }
 
-
+span.core-button-select-text {
+   color: #004C9C!important;
+}
 
