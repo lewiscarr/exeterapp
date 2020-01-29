@@ -633,9 +633,7 @@ ion-icon.icon.icon-md.ion-ios-arrow-forward {
 }
 
 
-ion-icon.icon.icon.ion-ios-arrow-back {
-    color: #004C9C!important;
-}
+
 
 
 ion-app.app-root page-addon-mod-lesson-player .addon-mod_lesson-pagebuttons .button-block {
@@ -647,3 +645,6 @@ span.core-button-select-text {
    color: #004C9C!important;
 }
 
+ion-grid.addon-calendar-navigation.grid.ng-star-inserted ion-icon.icon.icon.ion-ios-arrow-back {
+    color: #004C9C!important;
+}
