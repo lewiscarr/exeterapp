@@ -676,3 +676,7 @@ ion-app.app-root core-course-format .item-divider core-format-text {
 ion-item-divider.item.item-divider.item.item-divider ion-label.label.label-md.ng-star-inserted {
     color: #fff!important;
 }
+
+span.button-inner {
+    color: #fff;
+}
