@@ -671,3 +671,12 @@ a.disable-hover.button.button-md.button-default.button-default-md.button-block.b
 color: #fff!important
 }
 
+
+
+button.disable-hover.button.button.button-default.button-default.button-full.button-full.button-light {
+    color: #fff;
+}
+
+button.disable-hover.button.button-md.button-default.button-default-md.button-full.button-full-md.button-md-light {
+    color: #fff;
+}
