@@ -127,18 +127,7 @@ button.alert-button.alert-button.alert-button-default.alert-button-default.ng-st
 [dir=ltr] ion-app.app-root .core-primary-selected-item {
 	border-left: calc(env(safe-area-inset-left) + 5px) solid #004C9C;
 }
-ion-icon.icon.icon-md.ion-ios-arrow-back {
-	color: #fff;
-}
-ion-icon.icon.icon.ion-ios-arrow-back {
-	color: #fff;
-}
-ion-icon.icon.icon-md.ion-ios-arrow-forward {
-	color: #fff;
-}
-ion-icon.icon.icon.ion-ios-arrow-forward {
-	color: #fff;
-}
+
 .item-divider-md-light, .item-md-light {
 	color: #fff;
 	background-color: #16243D;
@@ -626,9 +615,7 @@ background: inherit;
 }
 
 
-ion-icon.icon.icon-md.ion-ios-arrow-forward {
-    color: #004C9C!important;
-}
+
 
 
 
@@ -643,14 +630,11 @@ span.core-button-select-text {
    color: #004C9C!important;
 }
 
-ion-grid.addon-calendar-navigation.grid.ng-star-inserted ion-icon.icon.icon.ion-ios-arrow-back {
-    color: #fff!important;
-}
 
 
-page-addon-mod-book-index ion-icon.icon.icon.ion-ios-arrow-back {
-    color: #004C9C!important;
-}
+
+
+
 
 
 ion-label {
