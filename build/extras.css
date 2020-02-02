@@ -681,4 +681,6 @@ button.disable-hover.button.button-md.button-default.button-default-md.button-fu
     color: #fff!important;
 }
 
-
+ion-app.app-root.md .button-md-light {
+color:#fff;	
+}
