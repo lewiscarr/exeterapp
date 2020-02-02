@@ -680,3 +680,8 @@ ion-item-divider.item.item-divider.item.item-divider ion-label.label.label-md.ng
 span.button-inner {
     color: #fff;
 }
+
+
+p.item-heading.core-siteurl.ng-star-inserted {
+    display: none;
+}
