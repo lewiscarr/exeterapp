@@ -684,3 +684,19 @@ button.disable-hover.button.button-md.button-default.button-default-md.button-fu
 ion-app.app-root.md .button-md-light {
 color:#fff;	
 }
+
+
+.loading-md .spinner-crescent circle {
+    stroke: #004C9C;
+}
+
+.spinner-md-crescent circle {
+    stroke: #004C9C;
+}
+.loading .spinner-crescent circle {
+    stroke: #004C9C;
+}
+
+.spinner-crescent circle {
+    stroke: #004C9C;
+}
