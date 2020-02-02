@@ -648,3 +648,13 @@ span.core-button-select-text {
 ion-grid.addon-calendar-navigation.grid.ng-star-inserted ion-icon.icon.icon.ion-ios-arrow-back {
     color: #fff!important;
 }
+
+
+page-addon-mod-book-index ion-icon.icon.icon.ion-ios-arrow-back {
+    color: #004C9C!important;
+}
+
+
+ion-label {
+	color:#000!important;
+}
