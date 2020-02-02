@@ -667,3 +667,9 @@ ion-item-divider.item.item-divider.item.item-divider ion-label.label.label-md.ng
 p.item-heading.core-siteurl.ng-star-inserted {
     display: none;
 }
+
+
+a.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md.button-md-light {
+color: #fff!important
+}
+
