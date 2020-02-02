@@ -667,3 +667,9 @@ ion-label {
 span.core-button-select-text {
 	color: #004C9C!important;
 }
+
+
+ion-app.app-root core-course-format .item-divider core-format-text {
+  
+    color: #fff;
+}
